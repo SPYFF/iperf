@@ -1,7 +1,7 @@
 # iperf3 with IPv6 Segment Routing support
 
 Very fragile yet working IPv6 segment routing support for iperf3. You could measure the throughput of detoured paths.
-**Implemented as a project at ACM SIGCOMM 2018 Hackathon**
+**Implemented as a project at ACM SIGCOMM 2018 Hackathon** (check [presentation slides](http://web.unideb.hu/~spyff/SIGCOMM%20hackathon.pdf))
 
 ### Example
 ```
